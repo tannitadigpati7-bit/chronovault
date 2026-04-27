@@ -409,6 +409,4 @@ Start your heritage preservation journey today:
 
 *Where cultural heritage meets artificial intelligence to ensure no tradition is forgotten.*
 
-</div> 
-
-
+</div>
