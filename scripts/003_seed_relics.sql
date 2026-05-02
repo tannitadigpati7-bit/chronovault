@@ -47,7 +47,7 @@ INSERT INTO relics (
   'As mass production continues and handcraft skills decline, kintsugi masters are becoming rare. By 2100, this may be a lost art preserved only in museums and digital archives. Future generations will study this as evidence of a time when humans valued objects beyond their utility.',
   'In an age of instant replacement, this bowl whispers of patience - of hands that chose gold over garbage, that found beauty in breakage. Future visitors to the Chrono-Vault will hold their breath at these golden rivers, understanding that our ancestors knew what we may have forgotten: nothing truly broken is beyond transformation.',
   true,
-  'https://images.unsplash.com/photo-1610701596061-2ecf227e85b2?w=800',
+  'https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?w=800',
   'published',
   true
 ),
@@ -72,7 +72,7 @@ INSERT INTO relics (
   'As the last generation of traditional sean-nós dancers ages, their improvisational knowledge cannot be fully captured in video. By 2100, we may have recordings but lose the subtle transmission of rhythm and soul that happens only in person.',
   'Watch closely: those feet speak a language older than books. In 2100, when humans may move through virtual worlds, they will seek this footage to remember when we danced on kitchen flagstones, when rhythm lived in bodies before it lived in code.',
   true,
-  'https://images.unsplash.com/photo-1631125915902-d2b0b9aef7c7?w=800',
+  'https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=800',
   'published',
   true
 ),
@@ -122,7 +122,7 @@ INSERT INTO relics (
   'As climate change alters the Australian landscape, some of the geographical features encoded in Dreamtime stories may change or disappear, breaking the narrative-landscape connection that has persisted for millennia.',
   'Listen carefully: this story is older than the pyramids, older than Stonehenge, older than writing itself. It has traveled through 3,000 generations of human minds. In the digital eternities ahead, may this voice of deep time remind us that stories are how humans remember.',
   true,
-  'https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=800',
+  'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800',
   'published',
   true
 ),
@@ -147,7 +147,7 @@ INSERT INTO relics (
   'Silbo Gomero is a remarkable example of successful language revival. Future linguists will study this case to understand how endangered languages can be saved through education policy.',
   'In the valleys of La Gomera, words fly on the wind. This is not music - it is language, whistled across chasms where shouting fails. Future humans: when you communicate through neural links and quantum channels, remember that your ancestors once sang conversations through mountain air.',
   true,
-  'https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=800',
+  'https://images.unsplash.com/photo-1548013146-72479768bada?w=800',
   'published',
   true
 ),
@@ -172,7 +172,7 @@ INSERT INTO relics (
   'As humanity grapples with plastic pollution, furoshiki may evolve from "traditional practice" to "essential skill." Future historians may see our plastic era as a temporary aberration from millennia of reusable wrapping.',
   'Your great-grandparents wrapped presents in cloth they kept for life. Your parents wrapped them in paper used once. You might wrap them in plastic that will outlast your grandchildren. Here in the Chrono-Vault, we preserve the elegant answer that existed all along.',
   true,
-  'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800',
+  'https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=800',
   'published',
   true
 ),
@@ -197,7 +197,7 @@ INSERT INTO relics (
   'As Mexican diaspora communities grow globally, Día de los Muertos spreads but also transforms. By 2100, we may see both more widespread celebration and greater deviation from traditional practices.',
   'Death is not an ending here - it is a homecoming. Every marigold petal is a step on the path between worlds. Future humans, when you have conquered disease and extended life, will you still know how to honor those who came before? This altar teaches that remembering is the most human act.',
   true,
-  'https://images.unsplash.com/photo-1606788075761-969bca9bc65c?w=800',
+  'https://images.unsplash.com/photo-1509721434272-b79147e0e708?w=800',
   'published',
   true
 ),
@@ -222,7 +222,7 @@ INSERT INTO relics (
   'Climate change threatens Venice itself, putting Murano''s future in question. The tradition may be forced to relocate, potentially breaking the place-based apprenticeship system that has transmitted knowledge for 700 years.',
   'Fire and breath, molten light shaped by ancient hands. The secrets of Murano have survived plagues, empires, and world wars. As Venice sinks and masters age, we capture their fire here - not just the objects, but the knowledge of making them.',
   true,
-  'https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=800',
+  'https://images.unsplash.com/photo-1551818255-e6e10975bc17?w=800',
   'published',
   true
 ),
@@ -247,7 +247,7 @@ INSERT INTO relics (
   'As energy efficiency becomes critical, ondol principles are being studied globally. South Korea''s "hanok stay" tourism has created economic incentive to maintain traditional systems.',
   'For 5,000 years, Korean families have slept on warm floors while winter raged outside. No electricity, no pollution, just the patient movement of heat through stone. Future engineers: your ancestors solved this problem beautifully. We preserved their solution.',
   true,
-  'https://images.unsplash.com/photo-1601314002592-b8734bca6604?w=800',
+  'https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=800',
   'published',
   true
 ),
@@ -272,7 +272,7 @@ INSERT INTO relics (
   'As African diaspora communities reconnect with heritage, Anansi has become a symbol of resilience and cleverness. The spider who defeated stronger foes through wit resonates with communities who survived through ingenuity.',
   'Small and overlooked, the spider won against lions. These stories crossed oceans in the memories of enslaved people, carrying hope in their words. Anansi proved that the powerless are never truly powerless. In tomorrow''s world, may this truth echo still.',
   true,
-  'https://images.unsplash.com/photo-1516026672322-bc52d61a55d5?w=800',
+  'https://images.unsplash.com/photo-1518709766631-a6a7f45921c3?w=800',
   'published',
   true
 ),
@@ -297,7 +297,7 @@ INSERT INTO relics (
   'Without intervention, hand-cut zellige may become extinct within 50 years. The mathematical precision required takes decades to master, and few young people are willing to invest the time.',
   'Mathematics made visible, infinity captured in clay. Each tile in this pattern was cut by hand, by eye, by generations of knowledge. When machines can copy any pattern, the Chrono-Vault preserves what cannot be copied: the human patience written into every edge.',
   true,
-  'https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=800',
+  'https://images.unsplash.com/photo-1548018560-c7196548e84d?w=800',
   'published',
   true
 ),
@@ -322,7 +322,7 @@ INSERT INTO relics (
   'The Hawaiian revival proves that language death is not inevitable. By 2100, Hawaiian could be a thriving language with hundreds of thousands of speakers, or it could decline again. The current generation''s choices will determine which future arrives.',
   'They told us it was dying, but our ancestors'' words did not want to die. From 50 children to thousands, from silence to song. This archive holds the voices of kupuna who refused to let their language sleep. May it teach future generations: no language is too far gone to bring home.',
   true,
-  'https://images.unsplash.com/photo-1543168256-418811576931?w=800',
+  'https://images.unsplash.com/photo-1542259009477-d625272157b7?w=800',
   'published',
   true
 );
